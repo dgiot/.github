@@ -21,17 +21,17 @@
 
 **DGIOT** is an open-source Industrial IoT platform that connects anything to anything — sensors, PLCs, meters, drones, robots, cameras — and turns raw data into actionable intelligence.
 
-Unlike generic IoT platforms, DGIOT ships with **300+ industrial protocol adapters** out of the box, runs on **edge devices or cloud**, and has been battle-tested in oil fields, power grids, smart cities, and defense systems.
+Unlike generic IoT platforms, DGIOT ships with **300+ industrial protocol adapters** out of the box, runs on **edge devices or cloud**, and has been battle-tested in energy, utilities, and manufacturing.
 
 ### The Numbers
 
 | Metric | Value |
 |--------|-------|
-| **GitHub + Gitee Stars** | 12,237 ★ |
+| **GitHub Stars** | 12,237 ★ |
 | **Developer Community** | 70,000+ |
 | **Enterprise Deployments** | 200+ |
 | **Protocol Adapters** | 300+ |
-| **Largest Single Deployment** | 928 gateways, 114,809 points, 16 oil fields |
+| **Largest Single Deployment** | 928 gateways, 114,809 points |
 | **Concurrency Verified** | 30M simultaneous connections |
 | **Uptime** | 99.9999% |
 | **Deploy Time** | 6 minutes |
@@ -63,7 +63,7 @@ Unlike generic IoT platforms, DGIOT ships with **300+ industrial protocol adapte
 | Product | Status | Scale |
 |---------|:------:|-------|
 | **UAV Automated Testing** | Production | 60 units/day, military certified |
-| **Oil Field Data Pipeline** | Production | 928 gateways, 652M data points |
+| **Energy Data Pipeline** | Production | 928 gateways, 652M data points |
 | **Smart Circuit Breaker** | Prototype | Mobile + Admin dashboard |
 | **Maritime Safety Platform** | Production | 200+ coast guard vessels |
 | **Smart Grid Metering** | Production | 7 cities, 120K smart meters |
@@ -101,10 +101,6 @@ docker-compose up -d
 
 ## Who Uses DGIOT?
 
-- 🏭 **Daqing Oil Field** — China's largest oil field, 928 gateways managed
-- 🏟️ **Asian Games 2022** — Venue digital twin, zero-failure operation
-- ⚡ **Southern Power Grid** — 120K smart meters across 7 cities
-- 🛡️ **Defense Contractor** — UAV testing & maritime safety systems
 - 🇸🇦 **Saudi SEC** — First Chinese IoT platform in Middle East power grid
 - 🇯🇵 **Toppan (Japan)** — 15M ZETA tag stress test, 1B data points
 
@@ -114,10 +110,9 @@ docker-compose up -d
 
 - 🌐 [Website](https://www.dgiotcloud.cn) · [English Docs](https://docs.dgiotcloud.cn/en)
 - 💬 [Discord](https://discord.gg/xxx) · [GitHub Discussions](https://github.com/dgiot/dgiot/discussions)
-- 📖 [中文社区](https://gitee.com/dgiot/dgiot) (Gitee: 7.4K ★)
 
 ---
 
 <p align="center">
-  <sub>Founded in Hangzhou, China · Apache 2.0 License · Built with ❤️ by the DGIOT community</sub>
+  <sub>Based in Dallas, TX, USA · Apache 2.0 License · Built with ❤️ by the DGIOT community</sub>
 </p>
