@@ -1,6 +1,6 @@
 # Sponsor DGIOT
 
-DGIOT is an open-source Industrial IoT platform powering 200+ enterprises worldwide. Your sponsorship directly funds protocol adapter development, security patches, and community infrastructure.
+DGIOT is an open-source Industrial IoT platform, battle-tested in energy, utilities, and manufacturing. Your sponsorship directly funds protocol adapter development, security patches, and community infrastructure.
 
 ---
 
