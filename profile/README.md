@@ -108,7 +108,7 @@ make
 
 ## Community
 
-🌐 Website · English Docs · Discord — *links pending verification (2026-09)*
+🌐 [Website](https://www.dgiotcloud.cn) · English Docs · Discord — *docs & Discord links pending verification (2026-09)*
 💬 GitHub Discussions · https://github.com/dgiot
 
 ---
