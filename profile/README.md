@@ -26,14 +26,14 @@ Unlike generic IoT platforms, DGIOT ships with **300+ protocol adapters** in the
 
 | Metric | Value |
 |--------|-------|
-| **GitHub + Gitee Stars** | 12,000+ (GitHub 4,836 ★ · Gitee 7.4K ★) |
+| **GitHub Stars** | 4,836+ ★ (live badge above) |
 | **Protocol Adapters** | 300+ (official catalog) |
 | **Largest Single Deployment** | 928 gateways · 114,809 points · 16 oilfield plants |
 | **Concurrency** | 30M simultaneous connections *(benchmark test)* |
 | **Deploy Time** | 6 minutes *(official claim)* |
 | **Docker Hub Pulls** | 6,300+ |
 
-*Data verified 2026-09. Star counts listed per platform; concurrency is a benchmark result; deploy time is the vendor's official claim.*
+*Data verified 2026-09. Star count per GitHub, 2026-09 snapshot; concurrency is a benchmark result; deploy time is the vendor's official claim.*
 
 ---
 
@@ -109,7 +109,7 @@ make
 ## Community
 
 🌐 Website · English Docs · Discord — *links pending verification (2026-09)*
-💬 GitHub Discussions · https://github.com/dgiot · https://gitee.com/dgiiot/dgiot
+💬 GitHub Discussions · https://github.com/dgiot
 
 ---
 
